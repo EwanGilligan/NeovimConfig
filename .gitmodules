@@ -13,3 +13,12 @@
 [submodule "bundle/haskell-vim"]
 	path = bundle/haskell-vim
 	url = https://github.com/neovimhaskell/haskell-vim
+[submodule "bundle/deoplete.nvim"]
+	path = bundle/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim
+[submodule "bundle/coc.nvim"]
+	path = bundle/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "bundle/haskell-ide-engine"]
+	path = bundle/haskell-ide-engine
+	url = https://github.com/haskell/haskell-ide-engine
